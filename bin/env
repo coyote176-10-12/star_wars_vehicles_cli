@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+
+require "star_wars_vehicles"
+
+StarWarsVehicles::CLI.new.call

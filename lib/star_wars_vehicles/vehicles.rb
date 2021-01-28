@@ -1,4 +1,4 @@
-def testing
-    puts "hello vehicles"
-    #binding.pry
+class Vehicles
+
+
 end
